@@ -1,0 +1,4 @@
+{
+  "predict_whole2nii.py::test_dice_coef": true,
+  "predict_whole2nii_new.py::test_dice_coef": true
+}
